@@ -6,5 +6,8 @@
 ### NAT :
 เป็นการแปลง IP Address ของเครือข่ายภายในไม่เป็น IP ที่เป็นที่ยอมรับและสื่อสารบนอินเทอร์เน็ตได้ทำให้มีความปลอดภัยและไม่ต้องใช้หมายเลข IP ซ้ำๆเมื่อต้องต่ออินเตอร์เน็ต
 
-### การ config อุปกรณ์
-![Image Description](URL_to_image)
+### การ config อุปกรณ์ :
+![Image Description](76971D50-5FB6-4988-BAD0-C0AAC07B73E1.jpg)
+- Friewall fortigate 60e
+- switch fortiswitch 424d
+- Server dell r330
